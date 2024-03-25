@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surya-tamang
-- 👀 I’m interested in web development and app development
-- 🌱 I’m currently learning html css and javascript
+- 👀 I’m on a journey of becoming a full stack developer
+- 🌱 I’m currently learning html css js and react.js
 
 
 <!---
