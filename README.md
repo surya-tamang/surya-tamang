@@ -1,8 +1,6 @@
-### 💫 About Me:
-
 - 👋 Hi, I’m @surya-tamang <br>
 - 👀 I’m on a journey of becoming a full stack developer <br>
-- 🌱 I’m currently learning html css js and react.js <br>
+- 🌱 I’m currently learning HTML5 CSS JS and React js <br>
 
 
 ### 📊 GitHub Stats:
