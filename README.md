@@ -1,7 +1,7 @@
 ### 👀 Hey !!
 
 - 🤓 I’m Surya Tamang an undergraduate BCA student <br>
-- 🚶‍♂️ I’m on a journey of becoming a full stack developer <br>
+- 🚶‍♂️ On a journey of becoming a full stack developer <br>
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@surya-tamang&theme=dark&hide_border=false)<br/>
