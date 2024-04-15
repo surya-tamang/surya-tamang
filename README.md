@@ -3,7 +3,7 @@
 - 🤓 I’m Surya Tamang an undergraduate BCA student <br>
 - 🚶‍♂️ On a journey of becoming a full stack developer <br>
 
-![profile](https://imgur.com/Rc1uO1k)
+[Imgur](https://imgur.com/Rc1uO1k)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@surya-tamang&theme=dark&hide_border=false)<br/>
