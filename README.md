@@ -3,6 +3,8 @@
 - 🤓 I’m Surya Tamang an undergraduate BCA student <br>
 - 🚶‍♂️ On a journey of becoming a full stack developer <br>
 
+![intro](https://github.com/surya-tamang/surya-tamang/blob/main/code.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-tamang&label=Profile%20views&color=c061cb&style=plastic" alt="surya" /> </p>
 
 
