@@ -1,8 +1,6 @@
 ### 👀 Hey !!
 
-<div style="text-align: center;">
- <img src="https://github.com/surya-tamang/surya-tamang/blob/main/code.png" style="border: 2px solid #ffffff; border-radius: 8px;" alt="intro" />
-</div>
+-My self Surya Tamang
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-tamang&label=Profile%20views&color=c061cb&style=plastic" alt="surya" /> </p>
 
