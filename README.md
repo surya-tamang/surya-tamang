@@ -1,6 +1,6 @@
 ### 👀 Hey !!
 
--My self Surya Tamang
+My-self Surya Tamang
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@surya-tamang&theme=dark&hide_border=false)<br/>
