@@ -1,5 +1,3 @@
-# 💫 About Me:
-In the process of becoming a full stack developer.<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surya-tamang&theme=shadow_blue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-tamang&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
